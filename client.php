@@ -11,4 +11,5 @@ mt_srand($g->makeSeed());
 //SIM\Birth::simulation(2000, 0.5);
 //SIM\Birth::simulation(20000, 0.513);
 //SIM\Cars::simulation(1000);
-SIM\Battery::simulation(10000, 0.2);
+//SIM\Battery::simulation(10000, 0.2);
+SIM\Geom::simulation(1000, 0.5);
